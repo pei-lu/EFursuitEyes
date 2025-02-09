@@ -3,6 +3,10 @@
 ## 材料列表  
 esp32-s3开发板，[购买连接](https://item.taobao.com/item.htm?abbucket=5&id=653155344338&ns=1&pisk=gegsEecesOX14V9mxAAUFD-yLE4bhB8PCsNxZjQNMPUTHDGohRRDjPoQhvHQBNRMjoejIPEmb-yahrGmFBJyzUlisrqvUL8rw5RI2PFODSQ9MwF8iBPOCezM6r4vUKsFklY7oYD-_qIOvWe3GSFAkxUK97F7k5ITMBwLG7jABxHx9BNYZSBYXZFdp5V_kiFTByQLaSbAkReO9BN0p-UYkxUKg2WQghNx1Cw1iuR6hsh_dZQxRWd0efTFuWgL1cwS627AksV_f8hTpL43IqZKiogciZZ-60D0wAB9h-0I9Vn-epSaB0NjamG9WwUZSfn8D4pcDYashu3TAsQ_Jy2_RW3Jgg2ERRkx5kdPPozKzuUtYHva0PNSHVD1GZH-Tbugxq95p-maZyFjoQIbhoIyBayW8bjfOubbO8RBOijmQF-Aoxxkz-rTt5LyOB6CmlF3O8ABOOs4XWVtWBOCQi1..&priceTId=undefined&skuId=5283400581750&spm=a21n57.1.hoverItem.5&utparam=%7B%22aplus_abtest%22%3A%228b55a7c19a9fce0f8f6c127778072c80%22%7D&xxc=taobaoSearch), 这个是官方正品，但是你也可以试试淘宝上其他更便宜的商家，这里我没买过就不做推荐了（芯片也就20块，所以官方价格其实是有点离谱的）只是名字里面带u1的意味着没有天线，请勿使用。如果会玩单片机也可以试试其他的开发板，欢迎贡献环境。
 5v ws2812B led 灯圈， 这里随便推荐一家[淘宝店](https://item.taobao.com/item.htm?abbucket=5&id=625291039579&ns=1&pisk=gSjrEhG5TuErbIWNGGxEbtgtw9KJ1HP_4MOBK9XHFQAkN9vHYsfQeQ63w6Sei9Q7eeN-LYIV_Di7wzBnYHt315Z_fTBWvHV6SB5nGYpBCpmoO4qmmH9U4SajGTBJvBDjtP_ceXPRNqDkKB22mpJptHYk-IXDMpgkt6AkojvwBHxHx6AmipJkEXAnqxqDMd9nre0kmtvHU4cor6X03pdDtHYogPfhwmR2rJ4EBzL-Q0xHsTAqxcl9NUDlH2iKvM9kzGBegK9f0L8y_EEa1qslG9j52EUrrHBf767hsSgWZNJNgF_z_05NwpXeK_rtQIjPLi8Rlb0kQ3RySgYgYRB2-ZS2VgVKWt62ZF-flrFWR35PWCLukSCF3Q1h4EczGB_1hgYVsSiV9e7hVnjuilSzvXpDcqIdzX0erKp21-yVbhwZPX3QqauKJEzv3CwTB23prK9218eSJ2LV8KR_Ig1..&priceTId=2100c87a17390906021876466e0c69&skuId=4597954843721&spm=a21n57.1.hoverItem.23&utparam=%7B%22aplus_abtest%22%3A%22c62c9f8ef80b075503342ec9e446ce12%22%7D&xxc=taobaoSearch) 但这只是个例子，只要长得像的都行，可以选择各种不同尺寸
+风扇？选配，我是直接拆了实验室的打印机（大雾）
 
 ### 碎碎念
-本来我是想自己画板子把所有东西都集成上，但是既然是个开源项目我就不重新发明轮子了，直接拿开发板不香吗，大小差别有没有那么大。。。。
+本来我是想自己画板子把所有东西都集成上，但是既然是个开源项目我就不重新发明轮子了，直接拿开发板不香吗，大小差别有没有那么大。。。。我后面应该还是会做个自己的板子的版本，就弄成巨小的那种欢迎会用smd的大佬使用（）
+
+### 使用授权
+各路装师朋友欢迎无偿使用，商用也没关系的， 给个credit就行（
